@@ -6,17 +6,6 @@
 * 联系方式: swipeto@gmail.com / 18611255451
 * 博客: http://bearbear.me
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
-- [x] 支持 @提到某人、#引用、[链接]()、**格式化** 和 <del>标签</del> 等语法
-- [x] 需要使用列表语法来激活（无序或有序列表均可）
-- [x] 这是一个已完成项目
-- [ ] 这是一个未完成项目
-
-
 #个人简介
 ####可能是因为接触互联网比较久，感觉大部分时间都用在上面了，所以也就顺理成章的干了这一行。最自豪也是最幸运的是曾参与到一个社交APP公司高速发展的阶段，边学边做收获很多，有比较完整的相关经验。另外小时候就接触电子游戏，长期混论坛买杂志，非常着迷游戏文化。平常生活主要是看书、看美剧、跑步。
 
