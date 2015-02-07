@@ -2,6 +2,8 @@
 published: true
 title: hello tinypress
 layout: post
+tags: [helloworld]
+categories: [test]
 ---
 #let tinypress
 
