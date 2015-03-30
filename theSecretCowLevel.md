@@ -37,8 +37,8 @@ Secret Cow Level 是一个提供全新方式发现和获取最新游戏内容的
 
 ### **谁有可能成为竞争对手?**
 
-* 形式相同但内容不是游戏: [36kr的NEXT], [Producthunt]
-* 游戏媒体: 例如[游戏葡萄]、[触乐网]
+* 形式相同但内容不是游戏: [Producthunt](www.producthunt.com) 和 [36kr的NEXT](http://next.36kr.com)
+* 游戏媒体: 例如[游戏葡萄](www.youxiputao.com) 、[触乐网](www.chuapp.com)
 * 游戏论坛: TGFC、A9VG、S1、NGA、久游
 
 ### **现在看起来比较简单，你有什么长远愿景吗?**
